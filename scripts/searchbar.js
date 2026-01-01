@@ -23,7 +23,6 @@ function generativeDisplay() {
 
 };
 
- alert('Instead of Cookies🍪 accept Smochas🫔')
 
 function reference() {
  /*Reference */

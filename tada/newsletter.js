@@ -2,8 +2,6 @@
 const news = JSON.parse(localStorage.getItem('nipashe'))
 /**nipashe */
 
-console.log(news)
-
 
 let Phone = ''
 let Mail = ''
