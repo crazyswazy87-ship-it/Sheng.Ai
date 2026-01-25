@@ -23,9 +23,27 @@ function generativeDisplay() {
 
 };
 
+function refresh() {
+   generativeDisplay();
+   if (value.length !== hoodSlang.swwone.toLowerCase().includes(value) ||
+            hoodSlang.swwtwo.toLowerCase().includes(value) ||
+            hoodSlang.swwthree.toLowerCase().includes(value) ||
+          hoodSlang.shhone.toLowerCase().includes(value) ||
+            hoodSlang.shhtwo.toLowerCase().includes(value) ||
+            hoodSlang.shhthree.toLowerCase().includes(value) ||
+            hoodSlang.enggone.toLowerCase().includes(value) ||
+            hoodSlang.enggtwo.toLowerCase().includes(value) ||
+            hoodSlang.enggthree.toLowerCase().includes(value)
+ ) {
+      reference();
+ }
+}
+
+ //alert('Instead of Cookies🍪 accept Smochas🫔')
 
 function reference() {
  /*Reference */
+   
    setTimeout(() => {
       if (res !== null) {
          document.querySelector('.js-reference').

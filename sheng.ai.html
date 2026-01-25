@@ -35,7 +35,7 @@
     <div class="scro1l">
 
       <div class="shengtrans js-result-sheng">
-        
+        Search down below any 'word' that you want to translate
       </div>
 
     </div>
@@ -51,14 +51,20 @@
   
   <!--SEARCH BOX-->
   <div class="last-b1x">
-    <input type="search" class="search-b1x  js-input-box" placeholder="Type any 'word' that you want to translate" 
+    <input type="search" class="search-b1x  js-input-box" placeholder="e.g: Donjo, Pesa, Wozza, Kioo, Sereche, Ngam" 
+      
       autocomplete="off"
       onkeydown="
       reference(); 
       "
       oninput="
       generativeDisplay();
-      ">
+      "
+      >
+       <img src="icons/search.png" class="sRc"
+        onclick="
+        refresh();"
+       >
   </div>
   <div class="hint">
     <span class="js-reference"></span>
@@ -75,4 +81,3 @@
 hoodSlang.js"></script>
 <script src="scripts/
 searchbar.js"></script>
-

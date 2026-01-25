@@ -1,5 +1,5 @@
 
-   /*Ai GENERATOR*/
+    /*Ai GENERATOR*/
   .illu{
     --ang1e:0deg;
     color: #fff;
@@ -53,6 +53,16 @@
     to{
       --angle:360deg;
     }
+  }
+
+  .sRc
+  {
+    position: absolute;
+    height: 30px;
+    margin-top: 6px;
+    flex: end;
+    display: flex;
+    margin-left: 390px;
   }
 
 
