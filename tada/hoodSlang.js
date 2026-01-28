@@ -303,9 +303,9 @@ const hoodSlangs = [
   },{
     swwone:'Mpya',
     swwtwo:'..',
-    swwthree:'..',
+    swwthree:'Pyamu',
     shhone:'Ndechu',
-    shhtwo:'Pyamu',
+    shhtwo:'Mwecheche',
     shhthree:'Mbichi',
     enggone:'New',
     enggtwo:'..',
