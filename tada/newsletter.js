@@ -1,5 +1,6 @@
 
 const news = JSON.parse(localStorage.getItem('nipashe'))
+console.log(news)
 /**nipashe */
 
 
@@ -18,6 +19,7 @@ function submitt() {
       }]
 
       news.push(newsletter)
+      
 
       localStorage.setItem('nipashe', JSON.stringify(news) )
 
