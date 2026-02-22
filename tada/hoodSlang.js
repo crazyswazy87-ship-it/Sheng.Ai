@@ -392,7 +392,7 @@ const hoodSlangs = [
     enggthree:'..',
   },{
     swwone:'Basi',
-    swwtwo:'Matatu';
+    swwtwo:'..',
     swwthree:'..',
     shhone:'Nganya',
     shhtwo:'Manyanga',
@@ -3365,7 +3365,7 @@ const hoodSlangs = [
     swwtwo:'..',
     swwthree:'..',
     shhone:'Kismart',
-    shhtwo:'..',
+    shhtwo:'Keysmat',
     shhthree:'..',
     enggone:'Luck',
     enggtwo:'..',
@@ -3468,6 +3468,16 @@ const hoodSlangs = [
     shhtwo:'..',
     shhthree:'..',
     enggone:'Picture',
+    enggtwo:'..',
+    enggthree:'..',
+  },{
+    swwone:'Kosea',
+    swwtwo:'..',
+    swwthree:'..',
+    shhone:'Dunge',
+    shhtwo:'..',
+    shhthree:'..',
+    enggone:' Fumble',
     enggtwo:'..',
     enggthree:'..',
   },{
@@ -3593,7 +3603,7 @@ const hoodSlangs = [
   },{
     swwone:'Kuma',
     swwtwo:'Kinembe',
-    swwthree:'..',
+    swwthree:'Kinywero',
     shhone:'Nyap',
     shhtwo:'Pongi',
     shhthree:'Ikus',
@@ -4400,6 +4410,16 @@ const hoodSlangs = [
     enggone:'Packe',
     enggtwo:'Bread',
     enggthree:'Currency',
+  },{
+    swwone:'Tupilia-mbali',
+    swwtwo:'..',
+    swwthree:'..',
+    shhone:'Ustake-jua',
+    shhtwo:'..',
+    shhthree:'..',
+    enggone:'Never-Mind',
+    enggtwo:'NVM',
+    enggthree:'..',
   },{
     swwone:'Funga',
     swwtwo:'Funika',
